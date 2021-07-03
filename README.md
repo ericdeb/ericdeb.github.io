@@ -1,2 +1,2 @@
-# Eric DeBusschere's Project's site
+## Eric DeBusschere's Projects
 
