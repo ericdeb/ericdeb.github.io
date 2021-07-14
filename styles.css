@@ -1,0 +1,84 @@
+html {
+    width:100%;
+    height:100%;
+}
+
+body {
+    width:100%;
+    height:100%;
+    padding:0px;
+    margin:0px;
+}
+
+#main {
+    margin-left: 1em;
+    margin-top: 0.5em;
+    width: 60em ;
+}
+
+.mainTabs {
+    float: left;
+    margin-left: 2em;
+    margin-top: 1.5em;
+    width: 70em;
+}
+
+#header span {
+    font-family: 'lucida grande',tahoma;
+    font-size: 1.5em;
+    font-weight:bold;
+}
+
+.smallHeader {
+    font-family: 'lucida grande',tahoma;
+    font-size: 1.15em;
+    font-weight:bold;
+}
+
+#header {
+    margin-left:1em;
+    margin-top:1em;
+    width:20em;
+}
+
+
+
+.subHeading {
+    font-size: 1.5em;
+}
+
+.caption {
+    font-weight:bold;
+    font-size:.7em;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+
+a {
+    text-decoration:none;
+}
+
+.stLink {
+    font-weight:bold;
+    text-decoration: none;
+}
+
+.subCon {
+    margin-top:1.3em;
+}
+
+#userInput {
+    margin-left:48px;
+}
+
+#content {
+    font-family: Verdana;
+    font-size: .85em;
+}
+
+
+
+
